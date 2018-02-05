@@ -3,6 +3,11 @@ from __future__ import print_function
 import requests
 
 
+__author__ = """Kirill Kiyko"""
+__email__ = 'kijko97@gmail.com'
+__version__ = '0.1.1'
+
+
 def upload_files(api_key, images):
     files = []
     image_number = 0

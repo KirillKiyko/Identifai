@@ -16,5 +16,5 @@ class TestIdentifai(unittest.TestCase):
         self.hello_message = "Identifai was install correctly"
 
     def test_000_something(self):
-        output = identifai.hello()
+        output = Identifai.hello()
         assert(output == self.hello_message)

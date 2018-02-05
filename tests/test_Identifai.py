@@ -6,7 +6,7 @@
 
 import unittest
 
-from identifai import hello
+from Identifai import hello
 
 
 class TestIdentifai(unittest.TestCase):

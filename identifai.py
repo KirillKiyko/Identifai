@@ -5,7 +5,7 @@ import requests
 
 __author__ = """Kirill Kiyko"""
 __email__ = 'kijko97@gmail.com'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 
 def upload_files(api_key, images):
